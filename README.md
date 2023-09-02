@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<p align="center">
+  Hi there 👋
+</p>
 
 ## 📊Code Analytics
 <a href="https://github.com/anuraghazra/github-readme-stats">
