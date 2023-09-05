@@ -4,7 +4,7 @@
 
 ## 📊Code Analytics
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMatsue&layout=donut" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMatsue&layout=donut&private=true" />
 </a>
 
 
