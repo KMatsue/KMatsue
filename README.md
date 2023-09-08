@@ -5,10 +5,10 @@
 ##  📈Stats  &  📊Code Analytics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="250px" src="https://github-readme-stats-kmatsue.vercel.app/api?username=KMatsue&count_private=true&theme=shadow_blue&show_icons=true&hide_rank=true&hide=stars" />
+  <img align="left" height="200px" src="https://github-readme-stats-kmatsue.vercel.app/api?username=KMatsue&count_private=true&theme=shadow_blue&show_icons=true&hide_rank=true&hide=stars" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="250px" src="https://github-readme-stats-kmatsue.vercel.app/api/top-langs/?username=KMatsue&layout=compact&langs_count=8&theme=shadow_blue" />
+  <img align="center" height="200px" src="https://github-readme-stats-kmatsue.vercel.app/api/top-langs/?username=KMatsue&layout=compact&langs_count=8&theme=shadow_blue" />
 </a>
 
 <!--
