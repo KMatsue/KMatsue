@@ -2,18 +2,16 @@
   Hi there 👋
 </p>
 
-## 📊Code Analytics
+##  📈Stats  &  📊Code Analytics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-kmatsue.vercel.app/api/top-langs/?username=KMatsue&layout=donut&langs_count=8" />
+  <img align="left" height="250px" src="https://github-readme-stats-kmatsue.vercel.app/api?username=KMatsue&count_private=true&theme=shadow_blue&show_icons=true&hide_rank=true&hide=stars" />
 </a>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="250px" src="https://github-readme-stats-kmatsue.vercel.app/api/top-langs/?username=KMatsue&layout=compact&langs_count=8&theme=shadow_blue" />
+</a>
 
 <!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-kmatsue.vercel.app/api?username=KMatsue" />
-</a>
-
 **KMatsue/KMatsue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
