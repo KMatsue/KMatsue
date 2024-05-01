@@ -8,7 +8,7 @@
   <img align="left" height="200px" src="https://github-readme-stats-eta-ten-14.vercel.app/api?username=KMatsue&count_private=true&theme=shadow_blue&show_icons=true&hide=stars&hide_rank=true&rank_icon=github&include_all_commits=false" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="200px" src="https://github-readme-stats-stats-eta-ten-14.vercel.app/api/top-langs/?username=KMatsue&layout=compact&langs_count=8&theme=shadow_blue" />
+  <img align="center" height="200px" src="https://github-readme-stats-eta-ten-14.vercel.app/api/top-langs/?username=KMatsue&layout=compact&langs_count=8&theme=shadow_blue" />
 </a>
 
 <!--
